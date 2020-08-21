@@ -1,0 +1,6 @@
+-   id: sqlint-ruby-docker
+    name: sqlint (via docker)
+    description: sqlint'er
+    entry: run.sh
+    language: docker
+    files: \.py$
